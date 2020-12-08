@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 08 Dec 2020 13:02:59 +0700</pubDate><title><![CDATA[Our Client]]></title><url><![CDATA[our-client]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;&amp;lt;div class=&quot;row&quot;&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;lt;div class=&quot;col-12 col-md-12 p-0&quot;&amp;gt;&amp;lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/client.jpg&quot; width=&quot;100%&quot; /&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;lt;div class=&quot;p-3 p-md-5 bg-light&quot;&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;lt;h3&amp;gt;Our Client.&amp;lt;/h3&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;lt;p class=&quot;lead&quot;&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&amp;lt;/p&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;lt;/div&amp;gt;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;lt;/div&amp;gt;&lt;br /&gt;
+	&amp;lt;/div&amp;gt;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

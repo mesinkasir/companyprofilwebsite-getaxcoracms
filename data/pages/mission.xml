@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 08 Dec 2020 13:08:12 +0700</pubDate><title><![CDATA[Mission]]></title><url><![CDATA[mission]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-12 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/mission.jpg&quot; width=&quot;100%&quot; /&gt;
+		&lt;div class=&quot;p-3 p-md-5 bg-light&quot;&gt;
+			&lt;h3&gt;Mission.&lt;/h3&gt;
+
+			&lt;p class=&quot;lead&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

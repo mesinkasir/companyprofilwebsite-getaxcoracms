@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Tue, 08 Dec 2020 13:16:45 +0700</pubDate><title><![CDATA[Get Axcora CMS]]></title><url><![CDATA[index]]></url><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-12 col-md-12 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/companywebsite.jpg&quot; width=&quot;100%&quot; /&gt;
+		&lt;div class=&quot;p-3 p-md-5 bg-light&quot;&gt;
+			&lt;h3&gt;Company Profile&lt;/h3&gt;
+
+			&lt;p class=&quot;lead&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0 border border-white&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/companyprofileweb.jpg&quot; width=&quot;100%&quot; /&gt;
+		&lt;div class=&quot;p-3 p-md-5 bg-light&quot;&gt;
+			&lt;h3&gt;Vision&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+			&lt;a class=&quot;mdl-button mdl-js-button mdl-button--raised mdl-button--colored&quot; href=&quot;index.php?id=vision&quot;&gt;More Info&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0 border border-white&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/companyweb.jpg&quot; width=&quot;100%&quot; /&gt;
+		&lt;div class=&quot;p-3 p-md-5 bg-light&quot;&gt;
+			&lt;h3&gt;Mision&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+			&lt;a class=&quot;mdl-button mdl-js-button mdl-button--raised mdl-button--colored&quot; href=&quot;index.php?id=mission&quot;&gt;More Info&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0 border border-white&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/company.png&quot; width=&quot;100%&quot; /&gt;
+		&lt;div class=&quot;p-3 p-md-5 bg-light&quot;&gt;
+			&lt;h3&gt;Target&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+			&lt;a class=&quot;mdl-button mdl-js-button mdl-button--raised mdl-button--colored&quot; href=&quot;index.php?id=the-target&quot;&gt;More Info&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-12 p-0&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/webprofesional.jpeg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0 border border-white&quot;&gt;
+		&lt;div class=&quot;p-3 p-md-5 bg-dark text-white&quot;&gt;
+			&lt;h3&gt;Client&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+			&lt;a class=&quot;mdl-button mdl-js-button mdl-button--raised mdl-button--colored&quot; href=&quot;index.php?id=our-client&quot;&gt;More Info&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0 border border-white bg-dark&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/Company.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-0 border border-white&quot;&gt;
+		&lt;div class=&quot;p-3 p-md-5 bg-dark text-white&quot;&gt;
+			&lt;h3&gt;Project&lt;/h3&gt;
+
+			&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+			&lt;a class=&quot;mdl-button mdl-js-button mdl-button--raised mdl-button--colored&quot; href=&quot;index.php?id=project&quot;&gt;More Info&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-8 p-0 border border-white bg-dark&quot;&gt;&lt;img class=&quot;img-fluid&quot; src=&quot;data/uploads/companycontatct.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;col-12 col-md-4 p-3 p-md-5 bg-primary text-light&quot;&gt;
+		&lt;h3&gt;Contact Us.&lt;/h3&gt;
+
+		&lt;p class=&quot;lead&quot;&gt;The Axcora Technology.&lt;br /&gt;
+			Ruko Pasar Wisata Juanda Blok Q.07&lt;br /&gt;
+			Sidoarjo - East Java&lt;br /&gt;
+			Indonesia&lt;br /&gt;
+			&lt;a class=&quot;text-light&quot; href=&quot;https://axcora.com&quot; target=&quot;_blank&quot;&gt;https://axcora.com&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>
