@@ -46,6 +46,7 @@ After upload progress success, now you need to configure website.xml file on \ge
 Your website is online now . for accsess backend you need visit yourwebsite/admin
 
 LOCALHOST
+
 Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit localhost/your project. need to configure website.xml file on \getaxcora\data\other\website.xml file. then change url `<SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL>` with your site URL project.
 Your website is online now on localhost. for accsess backend menu you need visit localhost/yourproject/admin
 
@@ -58,6 +59,8 @@ Features :
 + SEO : automaticly generate meta title , description , facebook, twitter.
 
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
+
+For demo : https://axcora.my.id
 
 more info https://axcora.com/getaxcoracms
 
