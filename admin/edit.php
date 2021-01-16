@@ -145,14 +145,12 @@ get_template('header', cl($SITENAME).' &raquo; '.i18n_r('EDIT').' '.$title);
 
 			<!-- page title toggle screen -->
 		<div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-				<p><label class="mdl-textfield__label" for="post-title" style="display:none;"><?php i18n('PAGE_TITLE'); ?></label>
+				<label class="mdl-textfield__label" for="post-title" style="display:none;"><?php i18n('PAGE_TITLE'); ?></label>
 				<input class="text title  mdl-textfield__input" id="post-title" name="post-title" type="text" value="<?php echo $title; ?>" placeholder="<?php i18n('PAGE_TITLE'); ?>" />
-	</p>
-	
-	</div>
+			</div>
 				
 
-			<!-- 
+			<!-- metadata toggle screen -->
 			<div style="display:none;" id="metadata_window" >
 			<div class="leftopt">
 				<p class="inline clearfix" id="post-private-wrap" >
@@ -232,22 +230,12 @@ get_template('header', cl($SITENAME).' &raquo; '.i18n_r('EDIT').' '.$title);
 					</select>
 				</div>				
 			</div>
-			-->
-			<div class="col-12 col-md-6">
-<!--				<p>
-					<label class="mdl-textfield__label" for="post-id"><?php i18n('SLUG_URL'); ?>:</label>
-					<input class="text short mdl-textfield__input" type="text" id="post-id" name="post-id" value="<?php echo $url; ?>" <?php echo ($url=='index'?'readonly="readonly" ':''); ?>/>
-				</p>
-				-->
+			
+			<div class="rightopt">
 				<p>
-					<label class="mdl-textfield__label" for="post-title" style="display:none;"><?php i18n('TAG_KEYWORDS'); ?>:</label>
-					<input class="text tags  mdl-textfield__input" id="post-metak" name="post-metak" placeholder="Insert Tags" type="text" value="<?php echo $metak; ?>" />
+					<label for="post-id"><?php i18n('SLUG_URL'); ?>:</label>
+					<input class="text short" type="text" id="post-id" name="post-id" value="<?php echo $url; ?>" <?php echo ($url=='index'?'readonly="readonly" ':''); ?>/>
 				</p>
-				<p>
-					<!--<label class="mdl-textfield__label" for="post-metad">SEO Function</label>-->
-					<textarea class="text mdl-textfield__input" id="post-metad" placeholder="Description" name="post-metad" ><?php echo $metad; ?></textarea>
-				</p>
-				<!--
 				<p>
 					<label for="post-metak"><?php i18n('TAG_KEYWORDS'); ?>:</label>
 					<input class="text short" id="post-metak" name="post-metak" type="text" value="<?php echo $metak; ?>" />
@@ -256,7 +244,7 @@ get_template('header', cl($SITENAME).' &raquo; '.i18n_r('EDIT').' '.$title);
 					<label for="post-metad" class="clearfix"><?php i18n('META_DESC'); ?>: <span id="countdownwrap"><strong id="countdown" ></strong> <?php i18n('REMAINING'); ?></span></label>
 					<textarea class="text" id="post-metad" name="post-metad" ><?php echo $metad; ?></textarea>
 				</p>
-				-->
+				
 
 			</div>
 			<div class="clear"></div>
