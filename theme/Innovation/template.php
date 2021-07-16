@@ -71,4 +71,4 @@ contacts
 				<li class="breadcrumb-item"><a href="<?php get_site_url(); ?>" id="logo" ><?php get_site_name(); ?></a></li>
 			</ol></nav>
 </div>
-<?php include('footer.inc.php'); ?><script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script><script src='https://bstp.sourceforge.io/gallerya.js'></script>
+<?php include('footer.inc.php'); ?><script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script><script src='https://mesinkasir.github.io/larapos/pos/gallerya.js'></script>
